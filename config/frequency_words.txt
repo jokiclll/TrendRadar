@@ -110,4 +110,4 @@ ai
 飞船
 航空
 
-golang
+!golang
